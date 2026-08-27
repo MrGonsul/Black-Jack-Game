@@ -27,3 +27,4 @@ This project was created to practice JavaScript fundamentals and build an intera
 * Event handling
 
 ⭐ A fun project and another step forward in my JavaScript learning journey!
+@scrimba
